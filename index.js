@@ -1,3 +1,7 @@
+window.open = function() {
+  console.log('Attempt to open a new window or tab blocked.');
+  return null; // Prevents opening a new window or tab
+};
 const _0x40a92e = _0xf1c9;
 (function (_0x523bba, _0x177904) {
   const _0x392339 = _0xf1c9,
@@ -54,13 +58,13 @@ function _0x4c89() {
     '2159150EDGAXW',
     '168zdSFSH',
     '4sVfrjc',
-    'Galxe\x20Auto\x20Complete\x20tasks\x20–\x20Happy\x20Cuan\x20Airdrop\x0a\x0aSubscribe:\x20https://t.me/HappyCuanAirdrop',
+    'Galxe\x20Auto\x20Complete\x20tasks',
     'Popup\x20closed.',
     '4085940cqRFSz',
     '296982aZnxvK',
     '97731gjstXG',
     '533853OldFqe',
-    'Claim\x20button\x20clicked.\x20Subscribe:\x20https://t.me/HappyCuanAirdrop',
+    'Claim\x20button\x20clicked',
     'length',
   ];
   _0x4c89 = function () {
